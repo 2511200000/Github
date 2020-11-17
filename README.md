@@ -9,7 +9,7 @@ JDK
 * README.md - this file itself to show the home pahe of this repo
 
 ## Connect me visa
-1. [facebook](https://facebook.com/Hoang Khanh.bis)
+1. [facebook](https://facebook.com/HoangKhanh.bis)
 2. [Email](mailto: khanhkhanh11250000@gmail.com)
 
 #### © 2020 by Hoang Khanh
