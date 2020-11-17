@@ -10,6 +10,6 @@ JDK
 
 ## Connect me visa
 1. [facebook](https://facebook.com/HoangKhanh.bis)
-2. [Email](mailto: khanhkhanh11250000@gmail.com)
+2. [Email](mailto:khanhkhanh11250000@gmail.com)
 
 #### © 2020 by Hoang Khanh
